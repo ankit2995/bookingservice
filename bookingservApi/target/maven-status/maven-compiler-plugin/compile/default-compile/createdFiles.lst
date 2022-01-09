@@ -1,0 +1,5 @@
+com\paypal\bfs\test\bookingserv\api\entity\Address.class
+com\paypal\bfs\test\bookingserv\api\entity\BookingEntity.class
+com\paypal\bfs\test\bookingserv\api\exception\ExceptionHandler.class
+com\paypal\bfs\test\bookingserv\api\BookingResource.class
+com\paypal\bfs\test\bookingserv\api\model\Booking.class
